@@ -25,7 +25,7 @@ To Implement Analytic Hierarchy Process for Requirement Priotization.
 
 ```bash
 git clone
-cd ahp_project
+cd ahp_repository
 npm i
 ```
 
